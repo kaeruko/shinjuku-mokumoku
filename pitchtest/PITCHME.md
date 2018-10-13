@@ -20,7 +20,9 @@ yokinaです
 
 ## そんなある日
 
-![](https://raw.githubusercontent.com/kaeruko/shinjuku-mokumoku/pitchtest/assets/images/pin1.png =200x)
+---
+
+![](https://raw.githubusercontent.com/kaeruko/shinjuku-mokumoku/pitchtest/assets/images/pin1.png =100x)
 
 ---
 
