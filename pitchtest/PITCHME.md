@@ -8,7 +8,7 @@ yokinaです
 
 ![](https://raw.githubusercontent.com/kaeruko/shinjuku-mokumoku/pitchtest/assets/images/nanmin.png)
 
-幸せな無職期間を謳歌していたけど、貯金が尽きかけて働かねば・・・
+幸せな無職期間を謳歌していたけど、貯金が尽きかけ・・・
 
 ---
 
@@ -20,7 +20,7 @@ yokinaです
 
 ##そんなある日
 
-![](https://raw.githubusercontent.com/kaeruko/shinjuku-mokumoku/pitchtest/assets/images/pin1.png)
+![](https://raw.githubusercontent.com/kaeruko/shinjuku-mokumoku/pitchtest/assets/images/pin1.png =1800x)
 
 ---
 
